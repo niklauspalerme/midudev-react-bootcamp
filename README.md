@@ -1,2 +1,2 @@
 # midudev-react-bootcamp
-Curso de FullStackOpen de Midudev 
+Curso de FullStackOpen de Midudev -Solo las clases
